@@ -1,2 +1,2 @@
 # new project 
-this project was created from local storage
+this project was created from local storage.
